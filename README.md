@@ -9,8 +9,11 @@
  
  
  ## Ubah Dataset (Tugas 2)
- - Referensi jurnal utama : https://www.sciencedirect.com/science/article/abs/pii/S1566253517307893
- - Dataset : https://www.kaggle.com/datasets/nunenuh/pytorch-challange-flower-dataset
+ - Referensi jurnal utama : (https://proceeding.unpkediri.ac.id/index.php/inotek/article/view/950?articlesBySameAuthorPage=3)
+ - Dataset : https://www.kaggle.com/datasets/dangtantai/trainkoi
+
+ ## Penerapan metode seperti jurnal (Tugas 3)
+ - Menggunakan model VGG16 dimana dalam model tersebut terdapat cnn yang dapat digunakan untuk ekstrak citra.
  
  ## Source
  - Youtube : https://www.youtube.com/watch?v=M0Y9_vBmYXU
